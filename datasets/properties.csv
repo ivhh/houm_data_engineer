@@ -1,0 +1,81 @@
+property_id,type_house,business_type,bedrooms,bathrooms,parking_lots,services,balcony,pool,latitude,longitude,localidad,city,region,country
+1,departamento,Rental,1,1,1,3.0,0,False,4.870956,-74.05804,Chí­A,Cundinamarca,Región De Cundinamarca,Colombia
+2,departamento,Rental & Sale,1,1,2,,1,False,4.6230683,-74.07403,Teusaquillo,Bogotá,Región De Cundinamarca,Colombia
+3,departamento,Rental,2,2,2,,0,False,4.7239094,-74.042336,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+4,departamento,Rental & Sale,3,2,1,0.0,0,False,4.7217155,-74.057976,Suba,Bogotá,Región De Cundinamarca,Colombia
+5,departamento,Rental & Sale,2,3,2,0.0,1,False,4.6881633,-74.0433,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+6,departamento,Rental & Sale,1,2,1,0.0,0,False,4.6458244,-74.06498,Chapinero,Bogotá,Región De Cundinamarca,Colombia
+7,departamento,Rental,1,2,2,,0,False,4.7269154,-74.03807,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+8,departamento,Rental,3,2,1,,0,False,4.7242723,-74.21945,Funza,Cundinamarca,Región De Cundinamarca,Colombia
+9,departamento,Rental,3,1,0,3.0,0,False,4.7337184,-74.10797,Suba,Bogotá,Región De Cundinamarca,Colombia
+10,departamento,Rental,1,2,1,,0,False,4.7232027,-74.05314,Suba,Bogotá,Región De Cundinamarca,Colombia
+11,departamento,Rental,3,2,1,,0,False,4.6543894,-74.15428,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+12,casa,Rental & Sale,3,2,2,,0,False,4.6956377,-74.05421,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+13,departamento,Rental,2,1,0,,0,False,4.62506,-74.113976,Puente Aranda,Bogotá,Región De Cundinamarca,Colombia
+14,departamento,Rental,3,2,0,100000.0,0,False,4.612865,-74.199905,Bosa,Bogotá,Región De Cundinamarca,Colombia
+15,departamento,Rental,3,2,1,,1,False,4.6714244,-74.12513,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+16,departamento,Rental,3,2,1,3.0,0,False,4.708395,-74.23117,Mosquera,Cundinamarca,Región De Cundinamarca,Colombia
+17,departamento,Rental,3,2,0,0.0,0,False,4.595085,-74.1701,Ciudad Bolivar,Cundinamarca,Región De Cundinamarca,Colombia
+18,departamento,Rental,1,1,2,,0,False,4.7230177,-74.04893,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+19,departamento,Rental,3,2,1,,0,False,4.7670474,-74.04899,Suba,Bogotá,Región De Cundinamarca,Colombia
+20,departamento,Rental,2,2,1,,0,False,4.6699696,-74.11667,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+21,departamento,Rental & Sale,3,1,0,,0,False,4.6037235,-74.21446,Soacha,Cundinamarca,Región De Cundinamarca,Colombia
+22,departamento,Rental,1,1,0,,0,False,4.6400003,-74.07164,Teusaquillo,Bogotá,Región De Cundinamarca,Colombia
+23,departamento,Rental,3,2,1,,0,True,4.652903,-74.15322,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+24,departamento,Rental & Sale,3,2,1,,0,False,4.7049074,-74.205666,Funza,Cundinamarca,Región De Cundinamarca,Colombia
+25,casa,Rental,5,4,2,,0,False,4.7134485,-74.047134,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+26,departamento,Rental & Sale,2,1,0,,0,False,4.594982,-74.158165,Ciudad Bolivar,Cundinamarca,Región De Cundinamarca,Colombia
+27,departamento,Rental,2,2,0,,0,False,4.674879,-74.13439,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+28,departamento,Rental,1,1,0,3.0,0,False,4.753546,-74.093185,Suba,Bogotá,Región De Cundinamarca,Colombia
+29,departamento,Rental,1,2,1,,0,False,4.8594837,-74.05528,Chí­A,Cundinamarca,Región De Cundinamarca,Colombia
+30,departamento,Rental,2,2,1,,0,False,4.6745405,-74.13517,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+31,departamento,Rental & Sale,2,2,2,,1,False,4.6941915,-74.043625,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+32,departamento,Rental,3,2,1,0.0,1,False,4.7567477,-74.024536,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+33,departamento,Rental & Sale,2,2,1,,0,False,4.7135477,-74.08859,Suba,Bogotá,Región De Cundinamarca,Colombia
+34,departamento,Rental,1,1,0,,0,False,4.6183634,-74.0735,Teusaquillo,Bogotá,Región De Cundinamarca,Colombia
+35,departamento,Rental,3,2,1,,0,False,4.655254,-74.154625,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+36,departamento,Rental,3,2,0,3.0,0,False,4.681658,-74.1649,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+37,departamento,Rental,3,2,1,1.0,0,False,4.6682415,-74.13753,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+38,departamento,Rental,3,2,1,,0,False,4.6585336,-74.12036,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+39,departamento,Rental,3,4,1,1.0,0,False,4.726546,-74.0473,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+40,departamento,Rental,2,2,2,,0,False,4.644231,-74.107834,Teusaquillo,Bogotá,Región De Cundinamarca,Colombia
+41,departamento,Rental & Sale,3,2,0,,0,False,4.7314963,-74.244675,Madrid,Cundinamarca,Región De Cundinamarca,Colombia
+42,departamento,Rental,2,1,0,,0,False,4.5907006,-74.21821,Soacha,Cundinamarca,Región De Cundinamarca,Colombia
+43,departamento,Rental,1,1,0,,0,False,4.7213364,-74.05526,Suba,Bogotá,Región De Cundinamarca,Colombia
+44,departamento,Rental,1,1,0,,0,False,4.7213364,-74.05526,Suba,Bogotá,Región De Cundinamarca,Colombia
+45,departamento,Rental,2,2,0,,0,False,4.7213364,-74.05526,Suba,Bogotá,Región De Cundinamarca,Colombia
+46,departamento,Rental,2,2,0,,0,False,4.7213364,-74.05526,Suba,Bogotá,Región De Cundinamarca,Colombia
+47,departamento,Rental,3,1,0,,0,True,4.6436114,-74.172066,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+48,departamento,Rental,3,1,0,,1,False,4.755693,-74.08868,Suba,Bogotá,Región De Cundinamarca,Colombia
+49,departamento,Rental,2,1,1,,0,False,4.755387,-74.080894,Suba,Bogotá,Región De Cundinamarca,Colombia
+50,departamento,Rental,3,2,1,,0,True,4.6377206,-74.15219,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+51,departamento,Rental,3,2,0,,0,False,4.6491294,-74.15174,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+52,departamento,Rental,3,2,0,3.0,0,False,4.732814,-74.245544,Madrid,Cundinamarca,Región De Cundinamarca,Colombia
+53,casa,Rental,3,2,0,,0,False,4.6799273,-74.16962,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+54,casa,Rental,2,1,0,,0,False,4.6695213,-74.15906,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+55,departamento,Rental,1,2,1,,0,False,4.691387,-74.06666,Suba,Bogotá,Región De Cundinamarca,Colombia
+56,departamento,Rental,1,2,1,0.0,1,False,4.692396,-74.04309,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+57,departamento,Rental,1,1,0,3.0,1,False,4.616884,-74.063965,Santa Fe,Bogotá,Región De Cundinamarca,Colombia
+58,departamento,Rental,2,1,0,,0,False,4.6823096,-74.15708,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+59,departamento,Rental,2,2,0,,0,False,4.6572576,-74.12485,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+60,casa,Rental,3,2,1,,0,False,4.7086377,-74.12831,Engativa,Bogotá,Región De Cundinamarca,Colombia
+61,departamento,Rental,1,1,0,,1,False,4.7242494,-74.073296,Suba,Bogotá,Región De Cundinamarca,Colombia
+62,departamento,Rental & Sale,3,3,1,,0,False,4.657157,-74.10851,Fontibon,Bogotá,Región De Cundinamarca,Colombia
+63,departamento,Rental,3,2,1,,0,False,4.926684,-74.02347,Cajicá,Cundinamarca,Región De Cundinamarca,Colombia
+64,departamento,Rental,1,1,0,,1,True,4.65809,-74.06184,Chapinero,Bogotá,Región De Cundinamarca,Colombia
+65,departamento,Rental,3,3,1,1.0,0,False,4.7085752,-74.05685,Suba,Bogotá,Región De Cundinamarca,Colombia
+66,departamento,Rental,1,1,0,,0,False,4.689937,-74.05933,Suba,Bogotá,Región De Cundinamarca,Colombia
+67,departamento,Rental,2,1,0,,0,False,4.6494575,-74.14507,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+68,departamento,Rental,3,1,0,,0,False,4.616457,-74.19502,Bosa,Bogotá,Región De Cundinamarca,Colombia
+69,departamento,Rental,3,2,0,,0,False,4.593542,-74.20581,Soacha,Cundinamarca,Región De Cundinamarca,Colombia
+70,departamento,Rental,3,1,0,,0,False,4.721424,-74.0924,Suba,Bogotá,Región De Cundinamarca,Colombia
+71,departamento,Rental,3,2,1,,0,False,4.6208687,-74.15699,Kennedy,Bogotá,Región De Cundinamarca,Colombia
+72,departamento,Rental,2,2,1,,1,False,4.696028,-74.23551,Mosquera,Cundinamarca,Región De Cundinamarca,Colombia
+73,departamento,Rental,2,1,0,,0,False,4.713997,-74.14374,Engativa,Bogotá,Región De Cundinamarca,Colombia
+74,departamento,Rental,3,2,0,,0,False,4.597126,-74.21805,Soacha,Cundinamarca,Región De Cundinamarca,Colombia
+75,departamento,Rental,3,2,0,,0,False,4.586188,-74.16131,Ciudad Bolivar,Cundinamarca,Región De Cundinamarca,Colombia
+76,departamento,Rental,3,2,2,0.0,0,False,4.7272778,-74.03693,Usaquen,Bogotá,Región De Cundinamarca,Colombia
+77,departamento,Rental,2,1,0,,0,True,4.5944543,-74.15808,Ciudad Bolivar,Cundinamarca,Región De Cundinamarca,Colombia
+78,departamento,Rental,1,1,0,2.0,0,False,4.6364236,-74.072205,Teusaquillo,Bogotá,Región De Cundinamarca,Colombia
+79,departamento,Rental,2,1,0,,0,False,4.725887,-74.226036,Mosquera,Cundinamarca,Región De Cundinamarca,Colombia
+80,casa,Rental & Sale,3,2,2,,0,False,4.5879345,-74.127815,Rafael Uribe Uribe,Bogotá,Región De Cundinamarca,Colombia
